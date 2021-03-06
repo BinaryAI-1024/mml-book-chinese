@@ -1,5 +1,5 @@
 # 机器学习的数学基础
-翻译自《MATHEMATICS FOR MACHINE LEARNING》  
+翻译自《MATHEMATICS FOR MACHINE LEARNING》  https://github.com/mml-book/mml-book.github.io
 [【机器学习的数学基础】（一）线性代数(Linear Algebra)（上）](https://my.oschina.net/u/3826368/blog/4768286?_from=gitee_search)
 
 【机器学习的数学基础】（二）线性代数(Linear Algebra)（中）
