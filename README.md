@@ -1,6 +1,7 @@
 
 
-![](https://images.gitee.com/uploads/images/2021/0326/150459_bb3e8391_6540651.jpeg "机器学习的数学基础.JPG")
+![image](https://user-images.githubusercontent.com/48244562/112636252-c73f5100-8e77-11eb-8df9-dd1054b5e29b.png)
+
 # 机器学习的数学基础
 
 [【机器学习的数学基础】（一）线性代数(Linear Algebra)（上）](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&mid=2247488566&idx=1&sn=59a2340575da0f60f7ecb17238d3d6fe&chksm=ce78383df90fb12b43d9bbd00cb7459d60dca953961919884716d2bb7c7f89b306929d96dd28&token=1349119889&lang=zh_CN#rd)
