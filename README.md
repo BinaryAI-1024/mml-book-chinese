@@ -1,6 +1,7 @@
 
 
-![image](https://user-images.githubusercontent.com/48244562/112636252-c73f5100-8e77-11eb-8df9-dd1054b5e29b.png)
+![image](https://user-images.githubusercontent.com/48244562/112636585-3e74e500-8e78-11eb-92f1-29c56d61d10c.png)
+
 
 # 机器学习的数学基础
 
