@@ -5,11 +5,11 @@
 
 # 机器学习的数学基础
 
-[【机器学习的数学基础】（一）线性代数(Linear Algebra)（上）](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&mid=2247488566&idx=1&sn=59a2340575da0f60f7ecb17238d3d6fe&chksm=ce78383df90fb12b43d9bbd00cb7459d60dca953961919884716d2bb7c7f89b306929d96dd28&token=1349119889&lang=zh_CN#rd)
+[【机器学习的数学基础】（一）线性代数(Linear Algebra)（上）](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&mid=2247488632&idx=3&sn=ceb6665e5764c67f6ea6e900e592b7b5&chksm=ce783873f90fb1650f63a4c272c31a3e0c47a452e8472295e7cc8d7c7202eb7361201b60ddf3&token=1349119889&lang=zh_CN#rd)
 
-[【机器学习的数学基础】（二）线性代数(Linear Algebra)（中） ](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&mid=2247488567&idx=1&sn=9b81ea4fef004c7bd18fa52797bce3b2&chksm=ce78383cf90fb12a6c8271fbb4ff691a5ab85068ea89b2582dd323d79a01653cc0f6863e4278&token=1349119889&lang=zh_CN#rd)
+[【机器学习的数学基础】（二）线性代数(Linear Algebra)（中） ](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&mid=2247488632&idx=2&sn=a9e6f117eec4f4ac9a344c8a665b4503&chksm=ce783873f90fb165ff33506cf29e3a6333bbc995813bbc0196acb985d1b0a26845c907ea5fa5&token=1349119889&lang=zh_CN#rd)
 
-【机器学习的数学基础】（三）线性代数(Linear Algebra)（下）
+[ 【机器学习的数学基础】（三）线性代数(Linear Algebra)（下）](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&mid=2247488632&idx=1&sn=fd1ce797f2f9f91537ac8fdd6372479c&chksm=ce783873f90fb165cdfab4117878e1a6d36afc78c1cb06cc45a2fa9b4d96eaced23b0f0a09ad&token=1349119889&lang=zh_CN#rd)
 
 【机器学习的数学基础】（四）解析几何(Analytic Geometry)（上）
 
