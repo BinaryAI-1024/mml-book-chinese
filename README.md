@@ -38,9 +38,7 @@
 
 书的作者是 Marc Peter Deisenroth，A Aldo Faisal 和 Cheng Soon Ong
 
-以上文章是《MATHEMATICS FOR MACHINE LEARNING》一书的部分翻译  
 
-书的作者是 Marc Peter Deisenroth，A Aldo Faisal 和 Cheng Soon Ong
 
 书籍下载地址：
 https://github.com/mml-book/mml-book.github.io
