@@ -26,9 +26,9 @@
 
 [【机器学习的数学基础】（十）向量微积分(Vector Calculus)(下)](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&mid=2247489390&idx=1&sn=662e1fd719580989071d0f1d81e6aead&chksm=ce783b65f90fb273c290be1b11fb9150173c0b1fd1aa6b33fec8a007152da304682f2f0fc813&token=28675777&lang=zh_CN#rd)
 
-[【机器学习的数学基础】（十一）概率与分布(Probability and Distributions)(上)](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&tempkey=MTExMl9IL2dyUzlhanJsZ0QxYno5T2FBNDgwTE5ibXVqNnlBa3R0cWp0SzFxbWdDZlBPdmptZ3plcHpDS1NrWW9Ob0R4SHpHRTBHQXpxLWhGaVA3UE42SG1zSHltbF9mVXQybmZrc25oNXVYVndJNmg5YTJ6bEFZSkltamtFdWxfMHpEN001bW9yWnBZREQ1YzNUZ3VWVFItcVFhcWRLRUQwZXB5YXBKSW1Rfn4=&chksm=ce783523f90fbc3537d97db4d97b5149de8756e27f445692fc81151c887b40c98202d9cadac5&token=28675777&lang=zh_CN#rd)
+[【机器学习的数学基础】（十一）概率与分布(Probability and Distributions)(上)](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&mid=2247489950&idx=2&sn=1cf1e44342a6952e072dd53e99efefca&chksm=ce783595f90fbc836a02d2263ca851ca56d0106b4f40ac82ac2e108d3ee8b1182c34bd9d2416&scene=178&cur_album_id=1718183509187477509#rd)
 
-[【机器学习的数学基础】（十二）概率与分布(Probability and Distributions)(中)](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&tempkey=MTExMl93TmIvSU82VzdCVlhtRnI0T2FBNDgwTE5ibXVqNnlBa3R0cWp0SzFxbWdDZlBPdmptZ3plcHpDS1NrYVRweWZiTlItd3lwaWJ3Qm1ObldjOWhsMUdyY0VYTkdaeVgtOWdieTNCVjdVRzk3NHZpM1NhLU83VU9oa0hyWDdyU1dNdWNUR2ItN0ViRTg0bmhKQkVWTVdEYWhYcDBURlZWUU5PbHcxTHlnfn4=&chksm=ce783523f90fbc357a37090d843a79773c6d8e0b39538e4ef5137822c17914f0a46f69b77b46&token=28675777&lang=zh_CN#rd)
+[【机器学习的数学基础】（十二）概率与分布(Probability and Distributions)(中)](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&mid=2247489950&idx=3&sn=51b77260f6385615345604f16ed4a5d1&chksm=ce783595f90fbc8394402ca3b7cc447110ec9442c88da9252048142c50214a891c7536053904&scene=178&cur_album_id=1718183509187477509#rd)
 
 [【机器学习的数学基础】（十三）概率与分布(Probability and Distributions)(下)](https://mp.weixin.qq.com/s?__biz=Mzg2MzM4Njk4MA==&mid=2247489833&idx=1&sn=afd8cc9813b8b2ee12b39df132167009&chksm=ce783522f90fbc34a62f19dae0f593eb2c87ca7d38e27b29affa40a3e154ac88115922377f0a&token=28675777&lang=zh_CN#rd)
 
