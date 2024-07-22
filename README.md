@@ -1,4 +1,4 @@
-
+![图片](https://github.com/user-attachments/assets/9aeb9f19-ac21-4792-8aae-c38be6c27d6b)
 
 ![image](https://user-images.githubusercontent.com/48244562/112636585-3e74e500-8e78-11eb-92f1-29c56d61d10c.png)
 
@@ -39,7 +39,15 @@
 书的作者是 Marc Peter Deisenroth，A Aldo Faisal 和 Cheng Soon Ong
 
 
-
 书籍下载地址：
 https://github.com/mml-book/mml-book.github.io
+
+
+# 最新版本
+
+[https://binaryai.blog.csdn.net/article/details/125039907](https://binaryai.blog.csdn.net/article/details/125039907)
+
+![图片](https://github.com/user-attachments/assets/20498875-0723-4f58-b952-335f6d44f718)
+
+
 
